@@ -21,7 +21,7 @@
   <a href="https://instagram.com/milafigx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/camila-figueiredo-b67b871a1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-   ![Snake animation](https://github.com/camilafigueiredo0101/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/camilafigueiredo0101/camilafigueiredo0101/blob/output/github-contribution-grid-snake.svg)
  
 
  
