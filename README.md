@@ -9,6 +9,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="Rafa-yoda" src="https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2FOtakuzinn%2Fgirls-gif%2F&psig=AOvVaw2ntSU0ApVhsK-m9a9FOBR7&ust=1623852502129000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjSwpTomfECFQAAAAAdAAAAABAJ">
  
 </div>
   
