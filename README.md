@@ -1,7 +1,7 @@
 ## Sejam Bem-vindos!
 
-- 🔭 Apaixonada por tecnologia
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas
+- 📫 Entre em contato comigo **camzfigueiredo123@gmail.com**
 
  <div align="center">
   <a href="https://github.com/camilafigueiredo0101">
