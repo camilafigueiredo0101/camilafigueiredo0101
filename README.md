@@ -1,6 +1,6 @@
 ## Sejam Bem-vindos!
 
-- 🌱 Estudante de Análise e Desenvolvimento de Sistemas
+- 🌱 Estudante de Análise e Desenvolvimento de Sistemas e Ciência da Computação 
 - 📫 Entre em contato comigo **camzfigueiredo123@gmail.com**
 
  <div align="center">
