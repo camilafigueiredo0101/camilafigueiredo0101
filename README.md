@@ -1,7 +1,7 @@
-## Sejam Bem-vindos!
+## Welcome to my profile!
 
-- 🌱 Estudante de Análise e Desenvolvimento de Sistemas e Ciência da Computação 
-- 📫 Entre em contato comigo **camzfigueiredo123@gmail.com**
+- 🌱 Computer Science Student
+- 📫 Contact me **camzfigueiredo123@gmail.com**
 
  <div align="center">
   <a href="https://github.com/camilafigueiredo0101">
